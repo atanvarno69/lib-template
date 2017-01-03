@@ -1,4 +1,4 @@
-# Atan\[PACKAGE-NAME]
+# Atan\PACKAGE-NAME
 [Basic description.]
 
 ## Requirements
