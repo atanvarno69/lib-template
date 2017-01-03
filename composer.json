@@ -1,0 +1,35 @@
+{
+    "name": "atan/PACKAGE-NAME",
+    "description": "Description here.",
+    "keywords": [
+        "list", "of", "keywords"
+    ],
+    "homepage": "https://github.com/atanvarno69/PACKAGE-NAME",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "atanvarno69",
+            "email": "atanvarno69@gmail.com",
+            "homepage": "https://github.com/atanvarno69",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Atan\\PACKAGE-NAME\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Atan\\PACKAGE-NAME\\Test": "tests"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.6.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
